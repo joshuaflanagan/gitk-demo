@@ -1,2 +1,4 @@
 apples
+pears
 oranges
+bananas
