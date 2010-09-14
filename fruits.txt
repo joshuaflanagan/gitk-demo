@@ -1,5 +1,6 @@
 apples
 pears
+reds
 oranges
-bananas
+banana
 kiwi
