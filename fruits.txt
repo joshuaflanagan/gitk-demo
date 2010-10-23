@@ -2,4 +2,3 @@ apples
 pears
 reds
 banana
-kiwi
