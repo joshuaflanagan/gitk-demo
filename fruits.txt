@@ -6,3 +6,4 @@ kiwi
 tomato
 squash
 pumpkin
+peppers
