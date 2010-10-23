@@ -3,3 +3,6 @@ pears
 reds
 banana
 kiwi
+tomato
+squash
+pumpkin
