@@ -5,5 +5,4 @@ banana
 kiwi
 tomato
 squash
-pumpkin
 peppers
