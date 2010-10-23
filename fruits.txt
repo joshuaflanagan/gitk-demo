@@ -1,6 +1,5 @@
 apples
 pears
-reds
 banana
 kiwi
 tomato
