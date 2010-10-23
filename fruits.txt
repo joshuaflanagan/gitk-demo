@@ -1,7 +1,7 @@
 apples
 pears
 reds
-grape
+grapes
 oranges
 banana
 kiwi
