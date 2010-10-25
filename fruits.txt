@@ -1,6 +1,5 @@
 apples
 pears
 banana
-tomato
 squash
 peppers
