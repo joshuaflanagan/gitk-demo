@@ -1,5 +1,8 @@
 apples
 pears
 banana
+kiwi
+tomato
+potato
 squash
 peppers
