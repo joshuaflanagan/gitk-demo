@@ -1,5 +1,6 @@
 ice cream
 milk
+cookies
 yello
 cheese
 weird
