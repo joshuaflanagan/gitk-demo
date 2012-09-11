@@ -3,6 +3,7 @@ pears
 banana
 kiwi
 tomato
+CELERY
 potato
 squash
 peppers
