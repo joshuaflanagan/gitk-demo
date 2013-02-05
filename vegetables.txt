@@ -3,4 +3,5 @@ summer squash
 tomato
 okra
 broccoli
+kale
 carrots
