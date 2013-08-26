@@ -2,6 +2,7 @@ apples
 pears
 banana
 kiwi
+orange
 tomato
 potato
 squash
