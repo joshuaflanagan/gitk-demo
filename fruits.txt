@@ -4,6 +4,7 @@ banana
 kiwi
 orange
 tomato
+CELERY
 potato
 squash
 peppers
