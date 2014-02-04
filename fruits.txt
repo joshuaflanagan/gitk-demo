@@ -1,6 +1,7 @@
 apples
 pears
 banana
+oranges
 kiwi
 orange
 tomato
