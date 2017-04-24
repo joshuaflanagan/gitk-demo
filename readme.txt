@@ -7,6 +7,6 @@ https://lostechies.com/joshuaflanagan/2010/09/03/use-gitk-to-understand-git-merg
 
 This is updated directly from web...
 
-- [x] Write the code
+- [X] Write the code
 - [ ] Write all the tests
 - [ ] Document the code
