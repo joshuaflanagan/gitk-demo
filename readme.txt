@@ -6,3 +6,7 @@ http://www.lostechies.com/blogs/joshuaflanagan/archive/2010/09/03/use-gitk-to-un
 https://lostechies.com/joshuaflanagan/2010/09/03/use-gitk-to-understand-git-merge-and-rebase/
 
 This is updated directly from web...
+
+- [X] Write the code
+- [ ] Write all the tests
+- [ ] Document the code
