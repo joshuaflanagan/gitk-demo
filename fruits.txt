@@ -3,7 +3,7 @@ pears
 banana
 kiwi
 orange
-tomato
+tomatoes
 potato
 squash
 peppers
