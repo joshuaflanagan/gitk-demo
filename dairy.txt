@@ -4,4 +4,5 @@ cookies
 yello
 cheese
 goat
+soy
 yogurt
